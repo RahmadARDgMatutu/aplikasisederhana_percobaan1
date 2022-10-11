@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">aplikasisederhana</string>
+    <string name="length">Panjang</string>
+    <string name="width">lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="result">Hitung</string>
+</resources>
